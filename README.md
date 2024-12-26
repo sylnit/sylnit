@@ -2,12 +2,12 @@
 
 My Name is Samuel Iheadindu. I am Full Stack Software Engineer. I have over 8 years experience in building complex applications that scale.
 
-**Strong Languages**: JavaScript, Python, and Typescript
+**Strong Languages**: Java, JavaScript, Python, PHP, Elixir
   
-- 🔭 I’m currently building and maintaining open source data tools like on [Danfojs](https://github.com/opensource9ja/danfojs), [Dnotebook](https://github.com/javascriptdata/dnotebook), [Datasist](https://github.com/risenW/datasist) etc.
-- 👯 I’m looking to collaborate on open source tools for data science and machine learning.
-- 💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
-- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/risingdeveloper).
+- 🔭 I’m currently leading the Software team at AEDC to build applications that automate internal processes as well as customer facing applications that make customers' lives better.
+- 👯 I’m looking to collaborate on open source tools that solve real-life problems.
+- 💬 Ask me about OSS, Software Engineering, etc.
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/samuel-iheadindu).
 
 --------------
 

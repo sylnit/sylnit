@@ -11,4 +11,9 @@ My Name is Samuel Iheadindu. I am Full Stack Software Engineer with 8+ years exp
 
 --------------
 
-[![Sylnit's github stats](https://github-readme-stats.vercel.app/api?username=sylnit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sylnit/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sylnit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylnit&theme=dark&hide_border=false"><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylnit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
+</p>

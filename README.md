@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Samuel Iheadindu. I am Full Stack Software Engineer with 8+ years experience in building complex applications that scale.
+I'm Samuel a.k.a Sylnit. I am Full Stack Software Engineer with 8+ years experience in building complex applications that scale.
 
 **Strong Languages**: Java, JavaScript, Python, PHP, Elixir
   

@@ -11,9 +11,9 @@ I'm Samuel a.k.a Sylnit. I am a Full Stack Software Engineer with 8+ years exper
 
 --------------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylnit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylnit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylnit&show_icons=true&locale=en" /> <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylnit&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent">
 </p>
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylnit&theme=dark&hide_border=false"><br />
-</p>
+</p> -->

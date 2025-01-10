@@ -9,8 +9,6 @@ I'm Samuel a.k.a Sylnit. I am a Full Stack Software Engineer with 8+ years exper
 - 💬 Ask me about OSS, Software Engineering, etc.
 - 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/samuel-iheadindu).
 
---------------
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylnit&show_icons=true&locale=en" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylnit&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent">
 </p>
